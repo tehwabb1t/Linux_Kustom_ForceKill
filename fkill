@@ -1,0 +1,11 @@
+echo 
+echo Running Kustom fkill Skript
+echo 
+echo This Skript and Shell Info
+echo 
+echo Terminal/Shell name :  $SHELL
+echo Kustom Skript Title :  $0
+echo Kustom Skript PID   :  $$
+echo Author https://github.com/tehwabb1t
+echo 
+xkill
